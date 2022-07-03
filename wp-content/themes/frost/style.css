@@ -404,6 +404,10 @@ p.has-background {
 	margin: 0 1rem;
 }
 
+.wp-block-cover > div > p {
+	margin: 0 0 .5rem;
+}
+
 /* Preformatted
 --------------------------------------------- */
 
