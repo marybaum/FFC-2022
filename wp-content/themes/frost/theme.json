@@ -293,7 +293,7 @@
 				"spacing": {
 					"margin": {
 						"top": "0px",
-						"bottom": "0px"
+						"bottom": "var(--wp--custom--margin-bottom)"
 					}
 				}
 			},

@@ -408,6 +408,10 @@ p.has-background {
 	margin: 0 0 .5rem;
 }
 
+.wp-block-post-content > .wp-block-cover {
+	margin: 0 !important;
+}
+
 /* Preformatted
 --------------------------------------------- */
 
